@@ -1,0 +1,96 @@
+# ChatCPT 3.0 - Git Ignore Dosyası
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Model Dosyaları (Büyük dosyalar)
+models/*/model.pkl
+models/*/embeddings.pkl
+*.pkl
+*.model
+
+# Konfigürasyon (Gizli bilgiler)
+config.env
+.env
+api_keys.json
+secrets.json
+
+# Bilgi Tabanı (Kullanıcı verisi)
+knowledge_base.json
+user_data.json
+chat_history.json
+
+# Loglar
+*.log
+logs/
+debug.log
+error.log
+
+# Geçici Dosyalar
+*.tmp
+*.temp
+.cache/
+temp/
+
+# IDE Dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Test Dosyaları
+test_*.py
+*_test.py
+tests/
+
+# Backup Dosyaları
+*.bak
+*.backup
+backup/
+
+# Çıktı Dosyaları
+output/
+results/
+exports/

@@ -1,0 +1,22 @@
+# ChatCPT 3.0 - Gerekli Python Paketleri
+# Minimal ve hızlı kurulum için optimize edilmiş
+
+# Temel kütüphaneler
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# JSON ve veri işleme
+json5>=0.9.0
+
+# Tarih ve zaman
+python-dateutil>=2.8.0
+
+# Opsiyonel: Gelişmiş özellikler için
+# transformers>=4.30.0  # Sadece GPU modunda gerekli
+# torch>=2.0.0          # Sadece GPU modunda gerekli
+
+# Windows desteği
+colorama>=0.4.6
+
+# Güvenlik
+urllib3>=2.0.0
