@@ -34,7 +34,7 @@ $criticalFiles = @(
     "ai_model.py",
     "search_engine.py", 
     "api_config.py",
-    "eğitim_verisi.json",
+    "egitim_verisi.json",
     "install.ps1",
     "README.md",
     "requirements.txt"

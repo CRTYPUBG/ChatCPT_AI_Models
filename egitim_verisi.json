@@ -1,0 +1,202 @@
+[
+    {
+        "instruction": "İnternetin en büyük faydası nedir?",
+        "input": "İnternet",
+        "output": "Bilgiye kolay erişim sağlaması ve insanlar arasında iletişimi kolaylaştırmasıdır."
+    },
+    {
+        "instruction": "Yapay zekanın gelecekteki rolü nedir?",
+        "input": "Yapay Zeka",
+        "output": "Yapay zeka, otomasyonu artırarak, verimliliği yükselterek ve karmaşık problemleri çözerek birçok sektörü dönüştürecektir."
+    },
+    {
+        "instruction": "Python programlama dilinin avantajları nelerdir?",
+        "input": "Python",
+        "output": "Python'un başlıca avantajları: kolay öğrenilebilir sözdizimi, geniş kütüphane desteği, çok amaçlı kullanım, güçlü topluluk desteği ve hızlı prototipleme imkanıdır."
+    },
+    {
+        "instruction": "Makine öğrenmesi nedir ve nasıl çalışır?",
+        "input": "Makine Öğrenmesi",
+        "output": "Makine öğrenmesi, bilgisayarların verilerden öğrenerek tahminlerde bulunmasını sağlayan bir yapay zeka dalıdır. Algoritmalar, büyük veri setlerini analiz ederek kalıpları keşfeder ve gelecekteki veriler için tahminler yapar."
+    },
+    {
+        "instruction": "Türkiye'nin başkenti neresidir?",
+        "input": "Türkiye",
+        "output": "Türkiye'nin başkenti Ankara'dır. Ankara, 1923 yılında Türkiye Cumhuriyeti'nin kurulmasıyla birlikte başkent olmuştur."
+    },
+    {
+        "instruction": "Sağlıklı beslenmenin önemi nedir?",
+        "input": "Beslenme",
+        "output": "Sağlıklı beslenme, vücudun ihtiyaç duyduğu besin öğelerini dengeli şekilde almasını sağlar. Bu sayede hastalık riskini azaltır, enerji seviyesini yüksek tutar ve genel yaşam kalitesini artırır."
+    },
+    {
+        "instruction": "Çevre kirliliğini nasıl azaltabiliriz?",
+        "input": "Çevre",
+        "output": "Çevre kirliliğini azaltmak için: geri dönüşüm yapabiliriz, toplu taşıma kullanabiliriz, enerji tasarrufu sağlayabiliriz, plastik kullanımını azaltabiliriz ve yenilenebilir enerji kaynaklarını destekleyebiliriz."
+    },
+    {
+        "instruction": "Kitap okumanın faydaları nelerdir?",
+        "input": "Kitap",
+        "output": "Kitap okuma, kelime dağarcığını genişletir, hayal gücünü geliştirir, stres azaltır, odaklanma yeteneğini artırır, empati kurmayı öğretir ve genel kültür seviyesini yükseltir."
+    },
+    {
+        "instruction": "Spor yapmanın sağlığa faydaları nelerdir?",
+        "input": "Spor",
+        "output": "Düzenli spor yapmak kalp sağlığını korur, kas ve kemikleri güçlendirir, kilo kontrolü sağlar, ruh halini iyileştirir, uyku kalitesini artırır ve hastalık risklerini azaltır."
+    },
+    {
+        "instruction": "Zaman yönetimi nasıl yapılır?",
+        "input": "Zaman Yönetimi",
+        "output": "Etkili zaman yönetimi için: öncelikleri belirleyin, günlük plan yapın, dikkat dağıtıcıları elimine edin, görevleri parçalara bölün, mola verin ve 'hayır' demeyi öğrenin."
+    },
+    {
+        "instruction": "Blockchain teknolojisi nedir?",
+        "input": "Blockchain",
+        "output": "Blockchain, verilerin şifrelenmiş bloklar halinde zincir şeklinde saklandığı, merkezi olmayan ve değiştirilemez bir veri tabanı teknolojisidir."
+    },
+    {
+        "instruction": "Güneş enerjisinin avantajları nelerdir?",
+        "input": "Güneş Enerjisi",
+        "output": "Güneş enerjisi yenilenebilir, temiz, sessiz ve uzun vadede ekonomiktir. Karbon emisyonunu azaltır ve enerji bağımsızlığı sağlar."
+    },
+    {
+        "instruction": "Matematik neden önemlidir?",
+        "input": "Matematik",
+        "output": "Matematik, mantıklı düşünme yeteneğini geliştirir, problem çözme becerilerini artırır ve günlük hayatta karşılaştığımız birçok durumda bize yardımcı olur."
+    },
+    {
+        "instruction": "Müzik dinlemenin faydaları nelerdir?",
+        "input": "Müzik",
+        "output": "Müzik dinlemek stresi azaltır, ruh halini iyileştirir, hafızayı güçlendirir, yaratıcılığı artırır ve sosyal bağları güçlendirir."
+    },
+    {
+        "instruction": "Sosyal medyanın olumsuz etkileri nelerdir?",
+        "input": "Sosyal Medya",
+        "output": "Sosyal medyanın olumsuz etkileri arasında bağımlılık, zaman kaybı, mahremiyet sorunları, yanlış bilgi yayılımı ve sosyal karşılaştırma bulunur."
+    },
+    {
+        "instruction": "Girişimcilik nedir ve nasıl başlanır?",
+        "input": "Girişimcilik",
+        "output": "Girişimcilik, yeni iş fikirleri geliştirerek değer yaratma sürecidir. Başlamak için pazar araştırması yapın, iş planı hazırlayın ve küçük adımlarla başlayın."
+    },
+    {
+        "instruction": "Dil öğrenmenin faydaları nelerdir?",
+        "input": "Dil Öğrenme",
+        "output": "Yeni dil öğrenmek beyin fonksiyonlarını geliştirir, kültürel anlayışı artırır, iş fırsatlarını çoğaltır ve özgüveni yükseltir."
+    },
+    {
+        "instruction": "Stres yönetimi nasıl yapılır?",
+        "input": "Stres",
+        "output": "Stres yönetimi için: derin nefes alın, düzenli egzersiz yapın, yeterli uyuyun, sosyal destek alın ve zaman yönetimi becerilerinizi geliştirin."
+    },
+    {
+        "instruction": "Bulut bilişim nedir?",
+        "input": "Bulut Bilişim",
+        "output": "Bulut bilişim, bilgi işlem kaynaklarının internet üzerinden hizmet olarak sunulmasıdır. Maliyet tasarrufu, esneklik ve erişilebilirlik sağlar."
+    },
+    {
+        "instruction": "Seyahat etmenin faydaları nelerdir?",
+        "input": "Seyahat",
+        "output": "Seyahat etmek kültürel zenginlik kazandırır, özgüveni artırır, stres azaltır, yeni deneyimler sunar ve dünya görüşünü genişletir."
+    },
+    {
+        "instruction": "Yapay zeka etiği neden önemlidir?",
+        "input": "AI Etiği",
+        "output": "Yapay zeka etiği, teknolojinin adil, güvenli ve sorumlu kullanımını sağlamak için kritiktir. İnsan haklarını korur ve önyargıları önler."
+    },
+    {
+        "instruction": "Veri bilimi nedir?",
+        "input": "Veri Bilimi",
+        "output": "Veri bilimi, büyük veri setlerinden anlamlı bilgiler çıkarmak için istatistik, matematik ve programlama kullanan disiplinler arası bir alandır."
+    },
+    {
+        "instruction": "Siber güvenlik neden önemlidir?",
+        "input": "Siber Güvenlik",
+        "output": "Siber güvenlik, dijital varlıkları ve kişisel bilgileri siber saldırılardan korumak için hayati önemdedir. Veri kaybını ve finansal zararları önler."
+    },
+    {
+        "instruction": "Nesnelerin interneti (IoT) nedir?",
+        "input": "IoT",
+        "output": "IoT, günlük nesnelerin internet bağlantısı ile akıllı hale getirilmesi ve birbirleriyle iletişim kurabilmesidir. Ev otomasyonu ve endüstri 4.0'ın temelidir."
+    },
+    {
+        "instruction": "Sürdürülebilir kalkınma nedir?",
+        "input": "Sürdürülebilirlik",
+        "output": "Sürdürülebilir kalkınma, bugünün ihtiyaçlarını gelecek nesillerin ihtiyaçlarını tehlikeye atmadan karşılayan kalkınma modelidir."
+    },
+    {
+        "instruction": "Eleştirel düşünme nasıl geliştirilir?",
+        "input": "Eleştirel Düşünme",
+        "output": "Eleştirel düşünmeyi geliştirmek için: soru sormayı alışkanlık haline getirin, farklı bakış açılarını değerlendirin, kanıtları analiz edin ve önyargılarınızı fark edin."
+    },
+    {
+        "instruction": "Robotik teknolojisinin geleceği nasıl?",
+        "input": "Robotik",
+        "output": "Robotik teknolojisi, yapay zeka ile birleşerek daha akıllı ve özerk robotlar üretecek. Sağlık, üretim ve hizmet sektörlerinde devrim yaratacak."
+    },
+    {
+        "instruction": "Dijital pazarlama nedir?",
+        "input": "Dijital Pazarlama",
+        "output": "Dijital pazarlama, internet ve dijital teknolojiler kullanılarak ürün ve hizmetlerin tanıtılması ve satışının yapılmasıdır."
+    },
+    {
+        "instruction": "Yaratıcılık nasıl artırılır?",
+        "input": "Yaratıcılık",
+        "output": "Yaratıcılığı artırmak için: farklı deneyimler yaşayın, merak duygusunu canlı tutun, beyin fırtınası yapın, sanat ile ilgilenin ve rahat bir ortam yaratın."
+    },
+    {
+        "instruction": "Finansal okuryazarlık neden önemlidir?",
+        "input": "Finansal Okuryazarlık",
+        "output": "Finansal okuryazarlık, para yönetimi, yatırım ve tasarruf konularında bilinçli kararlar alabilmek için gereklidir. Ekonomik güvenlik sağlar."
+    },
+    {
+        "instruction": "Uzaktan çalışmanın avantajları nelerdir?",
+        "input": "Uzaktan Çalışma",
+        "output": "Uzaktan çalışma esneklik sağlar, ulaşım maliyetlerini azaltır, iş-yaşam dengesini iyileştirir ve coğrafi sınırları ortadan kaldırır."
+    },
+    {
+        "instruction": "Biyoteknoloji nedir ve nerelerde kullanılır?",
+        "input": "Biyoteknoloji",
+        "output": "Biyoteknoloji, canlı organizmaları ve biyolojik sistemleri teknolojik uygulamalarda kullanma bilimidir. Tıp, tarım ve çevre alanlarında kullanılır."
+    },
+    {
+        "instruction": "Liderlik becerileri nasıl geliştirilir?",
+        "input": "Liderlik",
+        "output": "Liderlik becerilerini geliştirmek için: iletişim becerilerinizi güçlendirin, empati kurun, vizyon sahibi olun, takım çalışmasını destekleyin ve sürekli öğrenin."
+    },
+    {
+        "instruction": "Sanal gerçeklik (VR) teknolojisinin kullanım alanları nelerdir?",
+        "input": "VR",
+        "output": "VR teknolojisi eğitim, sağlık, oyun, mimarlık, turizm ve askeri eğitim gibi birçok alanda immersive deneyimler sunmak için kullanılır."
+    },
+    {
+        "instruction": "Proje yönetimi nedir?",
+        "input": "Proje Yönetimi",
+        "output": "Proje yönetimi, belirli hedeflere ulaşmak için kaynakları planlama, organize etme ve yönetme sürecidir. Zaman, bütçe ve kalite dengesini sağlar."
+    },
+    {
+        "instruction": "Kuantum bilgisayarlar nasıl çalışır?",
+        "input": "Kuantum Bilgisayar",
+        "output": "Kuantum bilgisayarlar, kuantum mekaniği prensiplerini kullanarak klasik bilgisayarlardan çok daha hızlı hesaplama yapabilen sistemlerdir."
+    },
+    {
+        "instruction": "Sosyal sorumluluk nedir?",
+        "input": "Sosyal Sorumluluk",
+        "output": "Sosyal sorumluluk, bireylerin ve kurumların topluma ve çevreye karşı etik davranma yükümlülüğüdür. Sürdürülebilir bir gelecek için gereklidir."
+    },
+    {
+        "instruction": "E-ticaret nasıl başlanır?",
+        "input": "E-ticaret",
+        "output": "E-ticarete başlamak için: pazar araştırması yapın, ürün seçin, online mağaza kurun, ödeme sistemlerini entegre edin ve dijital pazarlama stratejisi geliştirin."
+    },
+    {
+        "instruction": "Çevrimiçi güvenlik nasıl sağlanır?",
+        "input": "Online Güvenlik",
+        "output": "Çevrimiçi güvenlik için: güçlü şifreler kullanın, iki faktörlü kimlik doğrulama açın, güncel antivirüs kullanın ve şüpheli linklere tıklamayın."
+    },
+    {
+        "instruction": "Mobil uygulama geliştirme süreci nasıldır?",
+        "input": "Mobil Uygulama",
+        "output": "Mobil uygulama geliştirme: fikir geliştirme, pazar araştırması, tasarım, kodlama, test etme ve mağazalarda yayınlama aşamalarını içerir."
+    }
+]
