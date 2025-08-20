@@ -6,13 +6,13 @@
 
 ### Windows PowerShell (Önerilen)
 ```powershell
-iwr -useb https://raw.githubusercontent.com/[username]/chatcpt-3.0/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/CRTYPUBG/ChatCPT_AI_Models/main/install.ps1 | iex
 ```
 
 ### Manuel Kurulum
 ```bash
-git clone https://github.com/[username]/chatcpt-3.0.git
-cd chatcpt-3.0
+git clone https://github.com/CRTYPUBG/ChatCPT_AI_Models.git
+cd ChatCPT_AI_Models
 pip install -r requirements.txt
 python ai_model.py
 ```
@@ -198,7 +198,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ```powershell
 # Tek komutla kurulum
-iwr -useb https://raw.githubusercontent.com/[username]/chatcpt-3.0/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/CRTYPUBG/ChatCPT_AI_Models/main/install.ps1 | iex
 
 # Başlatma
 python ai_model.py

@@ -1,5 +1,5 @@
 # ChatCPT 3.0 - Otomatik Kurulum Script
-# Kullanım: iwr -useb https://raw.githubusercontent.com/[username]/chatcpt-3.0/main/install.ps1 | iex
+# Kullanım: iwr -useb https://raw.githubusercontent.com/CRTYPUBG/ChatCPT_AI_Models/main/install.ps1 | iex
 
 Write-Host "🚀 ChatCPT 3.0 - Türkçe AI Modeli Kurulumu Başlıyor..." -ForegroundColor Green
 Write-Host "=" * 60 -ForegroundColor Cyan
@@ -37,7 +37,7 @@ if (Test-Path $installDir) {
     git pull origin main
 } else {
     Write-Host "📥 ChatCPT 3.0 indiriliyor..." -ForegroundColor Blue
-    git clone https://github.com/[username]/chatcpt-3.0.git $installDir
+    git clone https://github.com/CRTYPUBG/ChatCPT_AI_Models.git $installDir
     Set-Location $installDir
 }
 
