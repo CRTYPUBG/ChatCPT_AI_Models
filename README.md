@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 ChatCPT 3.0 - Türkçe AI Modeli
 
 **ChatCPT 3.0**, gelişmiş Türkçe yapay zeka modeli. Sohbet, arama, öğrenme ve bağlam hafızası özellikleri ile donatılmış.
@@ -205,3 +206,6 @@ python ai_model.py
 ```
 
 **ChatCPT 3.0** - Türkçe yapay zeka deneyiminin geleceği! 🤖✨
+=======
+# ChatCPT_AI_Models
+>>>>>>> cd81e6dc7bbb85443a9a2b9db8caa78be5aef9a5
